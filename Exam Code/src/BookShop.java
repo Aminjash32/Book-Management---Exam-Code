@@ -1,3 +1,5 @@
+// Code Copyright Amin Jash February 2023.
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -218,3 +220,4 @@ public class BookShop {
 		frmBookEntry.getContentPane().add(lblNewLabel);
 	}
 }
+
